@@ -1,7 +1,5 @@
 # ♟️ Chess System (Java)
 
-Projeto desenvolvido como parte do curso de Java, com foco na aplicação prática de Programação Orientada a Objetos (POO).
-
 O sistema simula um jogo de xadrez completo no console, implementando regras reais do jogo, como movimentação de peças, validações, xeque e xeque-mate.
 
 ---
